@@ -1,0 +1,4 @@
+Add Github Actions and README
+
+- Adjusted GitHub actions based on JDK 21 instead of JDK 17
+- Adjusted README instructions according to request
