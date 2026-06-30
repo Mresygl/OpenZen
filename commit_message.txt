@@ -1,0 +1,7 @@
+Migrate project to Fabric 1.21.11
+
+- Switched build system from ForgeGradle to Fabric Loom
+- Rewrote all custom ASM patches to Mixins
+- Updated CustomFont for 1.21.11 BufferBuilder changes
+- Replaced Forge hooks with Mixins and Fabric equivalents
+- Set up build-loader.yml for GitHub Actions
